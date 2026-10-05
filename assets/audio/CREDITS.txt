@@ -1,0 +1,8 @@
+﻿Audio provenance — ENGLISH OPS, 2026-10-05
+These 51 WAV files are computer-generated speech, prepared locally using Microsoft Zira Desktop (en-US), rate -2, mono 22050 Hz PCM 16-bit.
+They are not human voice recordings and not the original textbook tracks.
+The spoken word "aunt" is supplied through SSML phoneme /ɑːnt/ to support the lesson's reading example.
+All lesson text comes from the user-provided textbook exercises or the explicitly labelled original game tasks.
+No student recordings, microphone input or personal information were used.
+Original textbook tracks 57, 59, 60 and 61 remain unprovided and can be connected separately by the teacher.
+
